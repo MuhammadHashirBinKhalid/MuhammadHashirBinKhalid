@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadHashirBinKhalid
 - 👀 I’m interested in computer vision, machine learning, deep learning, electronic circuit designing and much more...
-- 🌱 I’m currently learning advanced computer vision
-- 💞️ I’m looking to collaborate on software development and data analytics projects
+- You may find my profile at muhammadhashirbinkhalid.github.io
+- I’m looking to collaborate on software development and data analytics projects
 - 📫 How to reach me: mohammadhashirbinkhalid@gmail.com
 
 <!---
